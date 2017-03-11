@@ -8,6 +8,7 @@
   },
   "author": "Mozilla",
   "license": "MPL-2.0",
+  "files": ["src/browser-polyfill.js"],
   "bugs": {
     "url": "https://github.com/mozilla/webextension-polyfill/issues"
   },
